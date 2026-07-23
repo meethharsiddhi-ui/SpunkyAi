@@ -1,0 +1,14 @@
+logs/
+dist/
+node_modules/
+.env
+.env.local
+.vscode/
+.idea/
+prisma/*.db
+prisma/*.db-journal
+.DS_Store
+*.swp
+*.swo
+*~
+.turbo
